@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7d1209b11a62498e8cf65949027fe5b5/artifacts
+end_time: 1733159777229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d1209b11a62498e8cf65949027fe5b5
+run_name: illustrious-loon-178
+run_uuid: 7d1209b11a62498e8cf65949027fe5b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733159342926
+status: 4
+tags: []
+user_id: Admin

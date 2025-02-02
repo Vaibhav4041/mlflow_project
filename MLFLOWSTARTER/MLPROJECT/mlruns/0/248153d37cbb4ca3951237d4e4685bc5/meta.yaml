@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/248153d37cbb4ca3951237d4e4685bc5/artifacts
+end_time: 1733159180115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 248153d37cbb4ca3951237d4e4685bc5
+run_name: thundering-seal-345
+run_uuid: 248153d37cbb4ca3951237d4e4685bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733159168446
+status: 4
+tags: []
+user_id: Admin
